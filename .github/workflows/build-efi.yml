@@ -13,4 +13,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: MacMini-EFI
-          path: Builds/OpenCore-Build.zip
+          path: /Users/runner/work/OCLP-macmini/OCLP-macmini/Build-Folder/OpenCore-Build
